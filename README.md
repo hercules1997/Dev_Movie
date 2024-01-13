@@ -1,8 +1,8 @@
-# React + Vite
+# WestCine streaming
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido através de desafio da formação DevClub, usando uma interface interativa e moderna com consumo de API da themoviedb
 
-Currently, two official plugins are available:
+![image](https://github.com/hercules1997/Dev_Movie/assets/109186074/bd5c3748-6860-4a8d-b2f8-0a7da9053295)
+![image](https://github.com/hercules1997/Dev_Movie/assets/109186074/4a37999a-7856-467c-8fea-af010a8baf34)
+![image](https://github.com/hercules1997/Dev_Movie/assets/109186074/5cd2baf9-e73f-4a01-a31b-1374bdcc3b1c)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
